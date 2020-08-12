@@ -30,7 +30,7 @@ https://www.kaggle.com/airbnb/seattle?select=listings.csv
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-Also include the data files whcih were downloaded from Kaggle. To answer the above business questions listings and calendar data files were used.
+Also included are the data files which were downloaded from Kaggle. To answer the above business questions listings and calendar data files were used.
 
 ## Results<a name="results"></a>
 
