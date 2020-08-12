@@ -17,7 +17,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Seattle AIRBNB data from Kaggle to understand the following questions:
 
 1. What are the top 10 neighborhoods in Seattle with most number of hosts and super hosts??
-2. What are top 10 neighborhoods with highest and lowest avg. isting price?
+2. What are top 10 neighborhoods with highest and lowest avg. listing price?
 3. What is the % breakdown of property types in Seattle in the listings database?
 4. What % of listings are for entire place compared to private or share rooms in listings database?
 5. Are the number of hosts increasing every year in Seattle?
